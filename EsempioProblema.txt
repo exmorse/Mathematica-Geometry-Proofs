@@ -1,0 +1,2 @@
+Disegna due triangoli isosceli diversi fra loro, ABC e ABD, posti sulla stessa base AB, con i vertici C e D opposti rispetto alla base.
+Dimostra che il segmento DC divide per metà la base AB.
